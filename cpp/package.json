@@ -1,0 +1,22 @@
+{
+    "name": "cpp",
+    "displayName": "Cpp",
+    "description": "Cpp Extension",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "ms-vscode.cpptools",
+        "llvm-vs-code-extensions.vscode-clangd",
+        "ms-vscode.cmake-tools",
+        "ajshort.include-autocomplete",
+        "hars.cppsnippets",
+        "jeff-hykin.better-cpp-syntax",
+        "amiralizadeh9480.cpp-helper",
+        "xaver.clang-format"
+    ]
+}
