@@ -13,6 +13,10 @@
     "extensionPack": [
         "aaron-bond.better-comments",
         "alefragnani.Bookmarks",
+        "yzhang.markdown-all-in-one",
+        "foam.foam-vscode",
+        "waymondo.todoist",
+        "spoorthi.code-with-todoist",
         "alefragnani.project-manager",
         "bodil.file-browser",
         "CoenraadS.bracket-pair-colorizer-2",

@@ -1,0 +1,29 @@
+{
+    "name": "flutter",
+    "displayName": "Flutter",
+    "description": "Fluter Extension",
+    "publisher": "vscode-tommy",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "dart-code.dart-code",
+        "dart-code.flutter",
+        "nash.awesome-flutter-snippets",
+        "alexisvt.flutter-snippets",
+        "gornivv.vscode-flutter-files",
+        "luanpotter.dart-import",
+        "jeroen-meijer.pubspec-assist",
+        "felixangelov.bloc",
+        "marcelovelasquez.flutter-tree",
+        "localizely.flutter-intl",
+        "esskar.vscode-flutter-i18n-json",
+        "circlecodesolution.ccs-flutter-color",
+        "everettjf.pubspec-dependency-search",
+        "hirantha.json-to-dart"
+    ]
+}
