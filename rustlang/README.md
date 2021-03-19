@@ -1,0 +1,3 @@
+# Rustlang Extension Pack
+
+**Enjoy!**

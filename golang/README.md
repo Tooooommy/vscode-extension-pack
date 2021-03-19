@@ -1,0 +1,3 @@
+# Golang Extension Pack
+
+**Enjoy!**

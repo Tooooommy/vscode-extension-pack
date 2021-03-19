@@ -1,0 +1,22 @@
+{
+    "name": "golang",
+    "displayName": "Golang",
+    "description": "golang extension",
+    "publisher": "vscode-tommy",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "golang.go-nightly",
+        "golang.go",
+        "zxh404.vscode-proto3",
+        "msyrus.go-doc",
+        "aleksandra.go-group-imports",
+        "xiaoxin-technology.goctl",
+        "goplus.gop"
+    ]
+}
