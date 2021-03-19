@@ -22,6 +22,9 @@
         "xabikos.javascriptsnippets",
         "octref.vetur",
         "xiashui.uview-snippet",
-        "febean.vue-format"
+        "febean.vue-format",
+        "naumovs.color-highlight",
+        "bierner.color-info",
+        "hookyqr.beautify"
     ]
 }
