@@ -42,6 +42,7 @@
         "dotjoshjohnson.xml",
         "bungcip.better-toml",
         "jdinhlife.gruvbox",
-        "vscode-icons-team.vscode-icons"
+        "vscode-icons-team.vscode-icons",
+        "formulahendry.code-runner"
     ]
 }

@@ -1,3 +1,0 @@
-# Uniapp Extension Pack
-
-**Enjoy!**
