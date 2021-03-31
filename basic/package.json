@@ -43,6 +43,7 @@
         "bungcip.better-toml",
         "jdinhlife.gruvbox",
         "vscode-icons-team.vscode-icons",
-        "formulahendry.code-runner"
+        "formulahendry.code-runner",
+        "xyz.local-history"
     ]
 }
