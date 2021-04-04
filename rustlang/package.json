@@ -15,6 +15,7 @@
         "vadimcn.vscode-lldb",
         "matklad.rust-analyzer",
         "marus25.cortex-debug",
-        "kevinkassimo.cargo-toml-snippets"
+        "kevinkassimo.cargo-toml-snippets",
+        "swellaby.vscode-rust-test-adapter"
     ]
 }

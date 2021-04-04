@@ -19,6 +19,7 @@
         "ms-azuretools.vscode-docker",
         "formulahendry.docker-explorer",
         "xiaoxin-technology.goctl",
-        "goplus.gop"
+        "goplus.gop",
+        "ethan-reesor.vscode-go-test-adapter"
     ]
 }

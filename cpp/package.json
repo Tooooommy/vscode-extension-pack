@@ -18,6 +18,7 @@
         "hars.cppsnippets",
         "jeff-hykin.better-cpp-syntax",
         "amiralizadeh9480.cpp-helper",
-        "xaver.clang-format"
+        "xaver.clang-format",
+        "fredericbonnet.cmake-test-adapter"
     ]
 }
