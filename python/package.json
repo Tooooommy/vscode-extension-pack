@@ -22,6 +22,7 @@
         "thebarkman.vscode-djaneiro",
         "shamanu4.django-intellisense",
         "almenon.arepl",
-        "whinarn.python-auto-venv"
+        "whinarn.python-auto-venv",
+        "visualstudioexptteam.vscodeintellicode"
     ]
 }
