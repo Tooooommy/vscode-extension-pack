@@ -12,6 +12,7 @@
     ],
     "extensionPack": [
         "ms-python.python",
+        "ms-toolsai.jupyter",
         "ms-python.vscode-pylance",
         "batisteo.vscode-django",
         "njpwerner.autodocstring",
@@ -19,6 +20,8 @@
         "littlefoxteam.vscode-python-test-adapter",
         "dongli.python-preview",
         "thebarkman.vscode-djaneiro",
-        "shamanu4.django-intellisense"
+        "shamanu4.django-intellisense",
+        "almenon.arepl",
+        "whinarn.python-auto-venv"
     ]
 }
