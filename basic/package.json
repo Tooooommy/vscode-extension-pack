@@ -38,6 +38,7 @@
         "rangav.vscode-thunder-client",
         "aaron-bond.better-comments",
         "formulahendry.code-runner",
+        "visualstudioexptteam.vscodeintellicode",
         "hbenl.vscode-test-explorer"
     ]
 }

@@ -3,7 +3,7 @@
     "displayName": "Cpp",
     "description": "Cpp Extension",
     "publisher": "vscode-tommy",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.54.0"
     },
@@ -14,6 +14,8 @@
         "ms-vscode.cpptools",
         "llvm-vs-code-extensions.vscode-clangd",
         "ms-vscode.cmake-tools",
+        "go2sh.cmake-integration-vscode",
+        "cheshirekow.cmake-format",
         "ajshort.include-autocomplete",
         "hars.cppsnippets",
         "jeff-hykin.better-cpp-syntax",

@@ -3,7 +3,7 @@
     "displayName": "Web",
     "description": "Web Extension",
     "publisher": "vscode-tommy",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.54.0"
     },
@@ -11,25 +11,24 @@
         "Extension Packs"
     ],
     "extensionPack": [
-        "modyqyw.vscode-uni-cloud-snippets",
-        "mrmaoddxxaa.create-uniapp-view",
-        "modyqyw.vscode-uni-app-snippets",
-        "modyqyw.vscode-uni-app-schemas",
-        "modyqyw.vscode-uni-ui-snippets",
-        "syler.sass-indented",
+        "esbenp.prettier-vscode",
+        "ecmel.vscode-html-css",
+        "zignd.html-css-class-completion",
+        "pranaygp.vscode-css-peek",
         "dbaeumer.vscode-eslint",
-        "visualstudioexptteam.vscodeintellicode",
+        "syler.sass-indented",
         "xabikos.javascriptsnippets",
-        "octref.vetur",
-        "xiashui.uview-snippet",
-        "febean.vue-format",
+        "jasonnutter.search-node-modules",
         "naumovs.color-highlight",
         "bierner.color-info",
-        "msjsdiag.vscode-react-native",
-        "dsznajder.es7-react-js-snippets",
         "eg2.vscode-npm-script",
         "christian-kohler.npm-intellisense",
         "wix.vscode-import-cost",
-        "esbenp.prettier-vscode"
+        "mgmcdermott.vscode-language-babel",
+        "dsznajder.es7-react-js-snippets",
+        "msjsdiag.vscode-react-native",
+        "orta.vscode-jest",
+        "octref.vetur",
+        "hollowtree.vue-snippets"
     ]
 }

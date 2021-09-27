@@ -3,7 +3,7 @@
     "displayName": "Golang",
     "description": "golang extension",
     "publisher": "vscode-tommy",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.54.0"
     },
@@ -11,15 +11,9 @@
         "Extension Packs"
     ],
     "extensionPack": [
-        "golang.go-nightly",
         "golang.go",
-        "zxh404.vscode-proto3",
         "msyrus.go-doc",
         "aleksandra.go-group-imports",
-        "ms-azuretools.vscode-docker",
-        "formulahendry.docker-explorer",
-        "xiaoxin-technology.goctl",
-        "goplus.gop",
         "ethan-reesor.vscode-go-test-adapter"
     ]
 }
