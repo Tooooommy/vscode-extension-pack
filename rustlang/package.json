@@ -16,6 +16,7 @@
         "matklad.rust-analyzer",
         "marus25.cortex-debug",
         "panicbit.cargo",
-        "swellaby.vscode-rust-test-adapter"
+        "swellaby.vscode-rust-test-adapter",
+        "jscearcy.rust-doc-viewer"
     ]
 }

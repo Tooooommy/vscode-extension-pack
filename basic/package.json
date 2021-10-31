@@ -32,12 +32,14 @@
         "mtxr.sqltools",
         "ZainChen.json",
         "redhat.vscode-yaml",
-        "dotjoshjohnson.xml",
+        "redhat.vscode-xml",
         "bungcip.better-toml",
         "zxh404.vscode-proto3",
         "rangav.vscode-thunder-client",
         "aaron-bond.better-comments",
+        "redhat.fabric8-analytics",
         "formulahendry.code-runner",
+        "wowbox.code-debuger",
         "visualstudioexptteam.vscodeintellicode",
         "hbenl.vscode-test-explorer"
     ]
