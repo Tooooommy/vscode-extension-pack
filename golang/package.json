@@ -12,8 +12,6 @@
     ],
     "extensionPack": [
         "golang.go",
-        "msyrus.go-doc",
-        "aleksandra.go-group-imports",
         "ethan-reesor.vscode-go-test-adapter"
     ]
 }

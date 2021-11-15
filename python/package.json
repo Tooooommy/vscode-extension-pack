@@ -14,14 +14,11 @@
         "ms-python.python",
         "ms-toolsai.jupyter",
         "ms-python.vscode-pylance",
-        "batisteo.vscode-django",
         "njpwerner.autodocstring",
         "njqdev.vscode-python-typehint",
         "littlefoxteam.vscode-python-test-adapter",
         "dongli.python-preview",
-        "thebarkman.vscode-djaneiro",
-        "shamanu4.django-intellisense",
         "almenon.arepl",
-        "whinarn.python-auto-venv"
+        "donjayamanne.python-environment-manager"
     ]
 }

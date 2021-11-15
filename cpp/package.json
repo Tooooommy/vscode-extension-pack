@@ -13,14 +13,13 @@
     "extensionPack": [
         "ms-vscode.cpptools",
         "llvm-vs-code-extensions.vscode-clangd",
+        "xaver.clang-format",
         "ms-vscode.cmake-tools",
-        "go2sh.cmake-integration-vscode",
-        "cheshirekow.cmake-format",
+        "twxs.cmake",
+        "fredericbonnet.cmake-test-adapter",
         "ajshort.include-autocomplete",
         "hars.cppsnippets",
         "jeff-hykin.better-cpp-syntax",
-        "amiralizadeh9480.cpp-helper",
-        "xaver.clang-format",
-        "fredericbonnet.cmake-test-adapter"
+        "cschlosser.doxdocgen"
     ]
 }
