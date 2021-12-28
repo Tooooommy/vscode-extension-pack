@@ -1,3 +1,0 @@
-# CPP Extension Pack
-
-**Enjoy!**

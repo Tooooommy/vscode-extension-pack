@@ -1,3 +1,0 @@
-# Web Extension Pack
-
-**Enjoy!**

@@ -1,3 +1,0 @@
-# Flutter Extension Pack
-
-**Enjoy!**

@@ -1,3 +1,0 @@
-# Python Extension Pack
-
-##**Enjoy!**
