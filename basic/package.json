@@ -2,7 +2,7 @@
     "name": "basic",
     "displayName": "Basic",
     "description": "basic extension",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "vscode-tommy",
     "engines": {
         "vscode": "^1.54.0"
